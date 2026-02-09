@@ -1,0 +1,30 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/bullet1.png</file>
+        <file>images/bullet2.png</file>
+        <file>images/bullet3.png</file>
+        <file>images/gun1.png</file>
+        <file>images/gun1player.png</file>
+        <file>images/gun2player.png</file>
+        <file>images/gun3player.png</file>
+        <file>images/heal.png</file>
+        <file>images/ninjazombie1.png</file>
+        <file>images/ninjazombie2.png</file>
+        <file>images/ninjazombie3.png</file>
+        <file>images/playerbody.png</file>
+        <file>images/playerhead.png</file>
+        <file>images/powerup.png</file>
+        <file>images/shield.png</file>
+        <file>images/tankzombie1.png</file>
+        <file>images/tankzombie2.png</file>
+        <file>images/tankzombie3.png</file>
+        <file>images/weapon2.png</file>
+        <file>images/weapon3.png</file>
+        <file>images/zombie1.png</file>
+        <file>images/zombie2.png</file>
+        <file>images/zombie3.png</file>
+        <file>images/zombie4.png</file>
+    </qresource>
+</RCC>

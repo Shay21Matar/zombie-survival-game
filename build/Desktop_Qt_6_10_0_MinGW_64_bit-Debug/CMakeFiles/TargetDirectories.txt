@@ -1,0 +1,5 @@
+C:/Users/Shatha/Documents/3307project3/oop-assignment-3-cool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/ZombieRising.dir
+C:/Users/Shatha/Documents/3307project3/oop-assignment-3-cool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Shatha/Documents/3307project3/oop-assignment-3-cool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Shatha/Documents/3307project3/oop-assignment-3-cool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/ZombieRising_autogen_timestamp_deps.dir
+C:/Users/Shatha/Documents/3307project3/oop-assignment-3-cool/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/ZombieRising_autogen.dir
